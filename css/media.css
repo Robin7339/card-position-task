@@ -1,0 +1,38 @@
+  /* mobile */
+
+@media(min-width:320px){  .portfolio-container{width:80%;
+												margin:auto;}
+									
+								
+						 .portfolio-head h2{margin:auto;}
+							
+						
+						.portfolio-col{width:100%;}
+						
+						
+						}
+						
+  /* ipad */
+  
+@media(min-width:660px) {  .portfolio-container{width:80%;
+												margin:auto;}
+							 .portfolio-head h2{margin:auto;}
+						
+								.portfolio-col{width:100%;}
+
+						
+                        } 
+						
+						
+	/* laptop */
+	
+@media(min-width:960px){  .portfolio-container{width:80%;
+												margin:auto;}
+	
+							
+							 .portfolio-head h2{margin:auto;}
+								
+							.portfolio-col{width:26.66%;}
+	
+	
+                      }	
